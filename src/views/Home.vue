@@ -13,10 +13,10 @@ v-container
 				v-icon.mr-2(size="100" color="#607d8b") fa fa-chess
 			v-btn.mt-4(color="primary")
 				i.fas.fa-sun.fa-2x.mr-3
-				| Byte the Bucket
+				| Ash-Shams
 			v-btn.mt-4.primary--text(color="accent")
 				i.fas.fa-sun.fa-2x.mr-3
-				| Host With Toast
+				| Le Soleil
 </template>
 
 <script>
