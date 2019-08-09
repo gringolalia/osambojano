@@ -1,4 +1,4 @@
-	<template lang="pug">
+<template lang="pug">
 v-container
 	v-layout(text-xs-center column)
 		v-flex(xs12)
@@ -9,7 +9,8 @@ v-container
 				| Puglify My Vuetify
 			h1.display-1.mb-3
 				| Engenhoca Badalhoca
-			h1
+			h2.mb-3 Vortex Underwear Elephants
+				h1
 				v-icon.mr-2(size="100" color="#607d8b") fa fa-chess
 			v-btn.mt-4(color="primary")
 				i.fas.fa-sun.fa-2x.mr-3
