@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.09753b0e249eb7b0d9d0811143d03ef5.js"
+  "/precache-manifest.57c62539c9385da19e768c7b9af2273b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "balde-sambojano"});
